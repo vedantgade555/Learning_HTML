@@ -1,0 +1,15 @@
+Two Level elements
+
+1. Block Level Element : h1
+
+2. Inline Element
+
+Tags 
+1. <b></b> :Used for Bold
+2. <strong></strong> : Used for bold
+3. <i></i> : Used for Italic text
+4. <em></em>: Used for Italic
+5. <mark></mark> : Used for Marking
+6. <pre></pre> : follow structure same as given in program
+7. <h1>H<sub>2</sub>SO<sub>4</sub></h1>
+8. <h1>10<sup>th</sup>May</h1>
